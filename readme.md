@@ -12,3 +12,9 @@ Google Maps Geocoding API: https://developers.google.com/maps/documentation/geoc
 Plus d'informations ici: https://developer.android.com/training/volley/index.html
 
 # Fonctionnement de l'application
+- À la première utilisation: autoriser la localisation
+- Appuyer sur le bouton "Démarrer le service" pour lancer la géolocalisation et la synchronisation en temps réel (coordonnées + adresse).
+- Si le service est lancé, appuyer sur le bouton "Arrêter le service" pour stopper la synchronisation et la géolocalisation.
+
+# Politique de confidentialité
+Aucune information sur votre position est envoyé sur un quelconque serveur, je m'y engage là-dessus, de même pour Google avec son API.

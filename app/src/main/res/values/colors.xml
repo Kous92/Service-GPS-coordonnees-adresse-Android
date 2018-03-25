@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="limeGreen">#32CD32</color>
+    <color name="forestGreen">#228b22</color>
+    <color name="persianGreen">#00a693</color>
+    <color name="electricBlue">#035096</color>
+    <color name="red">#ff0000</color>
+    <color name="gold">#ffd700</color>
+    <color name="vulcanoOrange">#FF6600</color>
+    <color name="black">#000000</color>
+</resources>

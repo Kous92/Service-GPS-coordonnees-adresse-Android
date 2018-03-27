@@ -88,14 +88,15 @@ public class MainActivity extends AppCompatActivity
                             try
                             {
                                 // String address = response.getJSONArray("results").getJSONObject(0).getString("formatted_address");
-                                String city = response.getJSONArray("results").getJSONObject(0).getJSONArray("address_components").getJSONObject(2).getString("long_name");
-                                String country = response.getJSONArray("results").getJSONObject(0).getJSONArray("address_components").getJSONObject(5).getString("long_name");
-                                String region = response.getJSONArray("results").getJSONObject(0).getJSONArray("address_components").getJSONObject(4).getString("long_name");
-                                String departement = response.getJSONArray("results").getJSONObject(0).getJSONArray("address_components").getJSONObject(3).getString("long_name");
+                                // String city = response.getJSONArray("results").getJSONObject(0).getJSONArray("address_components").getJSONObject(2).getString("long_name");
+                                // String country = response.getJSONArray("results").getJSONObject(0).getJSONArray("address_components").getJSONObject(5).getString("long_name");
+                                // String region = response.getJSONArray("results").getJSONObject(0).getJSONArray("address_components").getJSONObject(4).getString("long_name");
+                                // String departement = response.getJSONArray("results").getJSONObject(0).getJSONArray("address_components").getJSONObject(3).getString("long_name");
                                 String formatted_address = response.getJSONArray("results").getJSONObject(0).getString("formatted_address");
                                 // System.out.println(response.getJSONArray("results").getJSONObject(0).getJSONArray("address_components").getJSONObject(5).getString("long_name"));
                                 adresseGPS.setVisibility(View.VISIBLE);
-                                adresseGPS.setText(city + ", " + country + "\n" + formatted_address);
+                                // adresseGPS.setText(city + ", " + country + "\n" + formatted_address);
+                                adresseGPS.setText(formatted_address);
                             }
                             catch (JSONException e)
                             {

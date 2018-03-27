@@ -1,0 +1,29 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Kous92/AndroidStudioProjects/TestServiceGPS/volley/src/main/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/Kous92/AndroidStudioProjects/TestServiceGPS/volley/src/main/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/Kous92/AndroidStudioProjects/TestServiceGPS/volley/src/main/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/Kous92/AndroidStudioProjects/TestServiceGPS/volley/src/main/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/Kous92/AndroidStudioProjects/TestServiceGPS/volley/src/main/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/Kous92/AndroidStudioProjects/TestServiceGPS/volley/src/main/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/Kous92/AndroidStudioProjects/TestServiceGPS/volley/src/main/AndroidManifest.xml:2:1-11:12
+	package
+		ADDED from /Users/Kous92/AndroidStudioProjects/TestServiceGPS/volley/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /Users/Kous92/AndroidStudioProjects/TestServiceGPS/volley/src/main/AndroidManifest.xml
+		INJECTED from /Users/Kous92/AndroidStudioProjects/TestServiceGPS/volley/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/Kous92/AndroidStudioProjects/TestServiceGPS/volley/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/Kous92/AndroidStudioProjects/TestServiceGPS/volley/src/main/AndroidManifest.xml
+		INJECTED from /Users/Kous92/AndroidStudioProjects/TestServiceGPS/volley/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Kous92/AndroidStudioProjects/TestServiceGPS/volley/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/Kous92/AndroidStudioProjects/TestServiceGPS/volley/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/Kous92/AndroidStudioProjects/TestServiceGPS/volley/src/main/AndroidManifest.xml
+		INJECTED from /Users/Kous92/AndroidStudioProjects/TestServiceGPS/volley/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/Kous92/AndroidStudioProjects/TestServiceGPS/volley/src/main/AndroidManifest.xml:7:5-43
+	android:minSdkVersion
+		ADDED from /Users/Kous92/AndroidStudioProjects/TestServiceGPS/volley/src/main/AndroidManifest.xml:7:15-40
+application
+ADDED from /Users/Kous92/AndroidStudioProjects/TestServiceGPS/volley/src/main/AndroidManifest.xml:9:5-20

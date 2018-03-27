@@ -1,0 +1,4 @@
+#Tue Mar 27 14:00:37 CEST 2018
+base.0=/Users/Kous92/AndroidStudioProjects/TestServiceGPS/app/build/intermediates/transforms/dexMerger/debug/23
+path.0=classes.dex
+renamed.0=classes.dex

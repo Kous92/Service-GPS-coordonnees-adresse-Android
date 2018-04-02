@@ -17,4 +17,4 @@ Plus d'informations ici: https://developer.android.com/training/volley/index.htm
 - Si le service est lancé, appuyer sur le bouton "Arrêter le service" pour stopper la synchronisation et la géolocalisation.
 
 # Politique de confidentialité
-Aucune information sur votre position est envoyé sur un quelconque serveur, je m'y engage là-dessus, de même pour Google avec son API.
+Aucune information sur votre position est envoyée sur un quelconque serveur, je m'y engage là-dessus, de même pour Google avec son API.
